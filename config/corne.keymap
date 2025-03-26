@@ -9,6 +9,7 @@
 #include <dt-bindings/zmk/bt.h>
 #include <zmk-helpers/helper.h>
 #include <zmk-helpers/unicode-chars/swedish.dtsi>
+#include <keys_se.h>
 
 / {
         keymap {
